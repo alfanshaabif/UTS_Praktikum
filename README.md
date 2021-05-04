@@ -33,14 +33,15 @@ Sumber : https://www.graphberry.com/item/moderno-creative-simpleportfolio-page
 
 ## Homepage
 
-<img width="960" alt="1" src="https://user-images.githubusercontent.com/56286071/117002374-ae934800-ad0d-11eb-90ae-17a79c789b0b.png">
+<img width="960" alt="1" src="https://user-images.githubusercontent.com/56286071/117007189-8b6b9700-ad13-11eb-98d4-b9d49e82c1f1.png">
 
-<img width="960" alt="2" src="https://user-images.githubusercontent.com/56286071/117002967-76d8d000-ad0e-11eb-8f5f-5c203b0f25fb.png">
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/56286071/117007227-97575900-ad13-11eb-859b-79cb19fcf79b.png">
 
 
 ## Contact
 
-<img width="960" alt="3" src="https://user-images.githubusercontent.com/56286071/117002983-7cceb100-ad0e-11eb-9a66-9712b17764de.png">
+<img width="960" alt="3" src="https://user-images.githubusercontent.com/56286071/117007255-9de5d080-ad13-11eb-9b15-4b0c1c8255d6.png">
+
 
 
 
