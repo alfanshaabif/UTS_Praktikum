@@ -19,7 +19,7 @@ TI.19.A.2
 
 <img width="770" alt="5" src="https://user-images.githubusercontent.com/56286071/117004662-8527eb80-ad10-11eb-9600-5e81ebe1f6cb.png">
 
-<img width="861" alt="6" src="https://user-images.githubusercontent.com/56286071/117004695-8d802680-ad10-11eb-9cc6-704967a1da0f.png">
+<img width="861" alt="6" src="https://user-images.githubusercontent.com/56286071/117006367-8b1ecc00-ad12-11eb-9745-9f9a257dd267.png">
 
 <img width="860" alt="7" src="https://user-images.githubusercontent.com/56286071/117004711-93760780-ad10-11eb-8828-375603b697d8.png">
 
