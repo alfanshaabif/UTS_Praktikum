@@ -15,14 +15,13 @@ TI.19.A.2
 
 ## Contoh Mockup Design Web
 
-<img width="766" alt="4" src="https://user-images.githubusercontent.com/56286071/117004765-a4bf1400-ad10-11eb-95be-80e50439e5c7.png">
+<img width="766" alt="4" src="https://user-images.githubusercontent.com/56286071/117008234-b5718900-ad14-11eb-9602-e411c4eca710.png">
 
-<img width="770" alt="5" src="https://user-images.githubusercontent.com/56286071/117004662-8527eb80-ad10-11eb-9600-5e81ebe1f6cb.png">
+<img width="770" alt="5" src="https://user-images.githubusercontent.com/56286071/117008284-bf938780-ad14-11eb-996f-58f90fefc0ac.png">
 
-<img width="861" alt="6" src="https://user-images.githubusercontent.com/56286071/117006367-8b1ecc00-ad12-11eb-9745-9f9a257dd267.png">
+<img width="857" alt="6" src="https://user-images.githubusercontent.com/56286071/117008311-c91cef80-ad14-11eb-8851-cd7f71684439.png">
 
-<img width="860" alt="7" src="https://user-images.githubusercontent.com/56286071/117004711-93760780-ad10-11eb-8828-375603b697d8.png">
-
+<img width="860" alt="7" src="https://user-images.githubusercontent.com/56286071/117008355-d33eee00-ad14-11eb-95c5-24a681e48dac.png">
 
 
 Sumber : https://www.graphberry.com/item/moderno-creative-simpleportfolio-page
@@ -33,15 +32,14 @@ Sumber : https://www.graphberry.com/item/moderno-creative-simpleportfolio-page
 
 ## Homepage
 
-<img width="960" alt="1" src="https://user-images.githubusercontent.com/56286071/117007189-8b6b9700-ad13-11eb-98d4-b9d49e82c1f1.png">
+<img width="960" alt="1" src="https://user-images.githubusercontent.com/56286071/117007652-19478200-ad14-11eb-915d-eb754380c264.png">
 
-<img width="960" alt="2" src="https://user-images.githubusercontent.com/56286071/117007227-97575900-ad13-11eb-859b-79cb19fcf79b.png">
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/56286071/117007681-23698080-ad14-11eb-8c54-9b85f729d3d0.png">
 
 
 ## Contact
 
-<img width="960" alt="3" src="https://user-images.githubusercontent.com/56286071/117007255-9de5d080-ad13-11eb-9b15-4b0c1c8255d6.png">
-
+<img width="960" alt="3" src="https://user-images.githubusercontent.com/56286071/117007740-30866f80-ad14-11eb-9040-7a90c6b1979e.png">
 
 
 
