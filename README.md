@@ -15,7 +15,8 @@ TI.19.A.2
 
 ## Contoh Mockup Design Web
 
-![Moderno](https://user-images.githubusercontent.com/56286071/117001073-1a74b100-ad0c-11eb-8852-cba6555b27a8.jpg)
+<img width="963" alt="4" src="https://user-images.githubusercontent.com/56286071/117003732-6bd26f80-ad0f-11eb-9304-4d90bd732d2c.png">
+
 
 Sumber : https://www.graphberry.com/item/moderno-creative-simpleportfolio-page
 
